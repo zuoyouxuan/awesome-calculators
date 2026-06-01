@@ -3,6 +3,12 @@
   <p>A curated list of awesome online calculators, tools, and resources.</p>
   <p><em>Find the right calculator — fast, free, no sign-up required.</em></p>
   <p>
+    <a href="README.md"><img src="https://img.shields.io/badge/EN-English-blue?style=flat-square" alt="English"></a>
+    <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/ZH-简体中文-red?style=flat-square" alt="简体中文"></a>
+    <a href="README.ja.md"><img src="https://img.shields.io/badge/JA-日本語-white?style=flat-square" alt="日本語"></a>
+    <a href="README.ko.md"><img src="https://img.shields.io/badge/KO-한국어-purple?style=flat-square" alt="한국어"></a>
+  </p>
+  <p>
     <a href="#contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
   </p>
