@@ -35,10 +35,14 @@
 _All-in-one calculator platforms covering multiple domains._
 
 - [**Calnex**](https://calnex.pro) — 147+ free calculators covering finance, health, math, physics, conversions, and daily life. All calculations run **locally in your browser** — zero data upload, no registration needed. 12 language locales. ⭐
+- [**Mini Tools**](https://mini-tools.uk) — Free multilingual online tools including UK finance calculators, image/PDF tools, developer utilities and everyday converters.
 
 ## Finance & Investment
 
 - [Mortgage Calculator](https://www.calculator.net/mortgage-calculator.html) — Classic mortgage payment estimator.
+- [UK Mortgage Calculator](https://mini-tools.uk/mortgage) — Estimate UK mortgage repayments and loan-to-value.
+- [UK Income Tax Calculator](https://mini-tools.uk/tax) — Calculate UK take-home pay, PAYE income tax and National Insurance.
+- [UK VAT Calculator](https://mini-tools.uk/vat) — Add or remove UK VAT using standard, reduced, zero or custom rates.
 - [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) — Official SEC compound interest tool.
 - [Compound Interest Calculator (Interactive)](https://calnex.pro/en_US/calculators/finance/compound_interest_calculator) — Visual compound interest with charts, daily/monthly/yearly contributions.
 - [Loan Calculator](https://www.bankrate.com/loans/loan-calculator/) — Bankrate loan amortization.
