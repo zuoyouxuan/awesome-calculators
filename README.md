@@ -43,6 +43,9 @@ _All-in-one calculator platforms covering multiple domains._
 - [UK Mortgage Calculator](https://mini-tools.uk/mortgage) — Estimate UK mortgage repayments and loan-to-value.
 - [UK Income Tax Calculator](https://mini-tools.uk/tax) — Calculate UK take-home pay, PAYE income tax and National Insurance.
 - [UK VAT Calculator](https://mini-tools.uk/vat) — Add or remove UK VAT using standard, reduced, zero or custom rates.
+- [IR35 Calculator](https://mini-tools.uk/ir35) - Compare inside IR35 umbrella take-home pay with outside IR35 limited company assumptions for UK contractors.
+- [Stamp Duty Calculator](https://mini-tools.uk/stamp-duty) - Estimate SDLT for England and Northern Ireland, including first-time buyer relief, additional property rates and non-resident surcharge.
+- [UK Dividend Tax Calculator](https://mini-tools.uk/dividend) - Estimate UK dividend tax with salary, other income, dividend allowance and dividend tax bands.
 - [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) — Official SEC compound interest tool.
 - [Compound Interest Calculator (Interactive)](https://calnex.pro/en_US/calculators/finance/compound_interest_calculator) — Visual compound interest with charts, daily/monthly/yearly contributions.
 - [Loan Calculator](https://www.bankrate.com/loans/loan-calculator/) — Bankrate loan amortization.
