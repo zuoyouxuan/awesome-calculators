@@ -70,6 +70,7 @@ _All-in-one calculator platforms covering multiple domains._
 
 ## Science & Engineering
 
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) — Free concrete calculators for slabs, footings, post holes, bag counts, ready-mix planning, and material cost estimates.
 - [Ohm's Law Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-ohms) — DigiKey Ohm's law tool.
 - [Ideal Gas Law Calculator](https://www.omnicalculator.com/physics/ideal-gas-law) — PV=nRT calculations.
 - [Velocity Calculator](https://calnex.pro/en_US/calculators/physics/velocity_calculator) — Speed, distance, time with formulas & steps.
