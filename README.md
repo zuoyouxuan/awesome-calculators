@@ -75,6 +75,7 @@ _All-in-one calculator platforms covering multiple domains._
 - [Velocity Calculator](https://calnex.pro/en_US/calculators/physics/velocity_calculator) — Speed, distance, time with formulas & steps.
 - [Gravity Calculator](https://calnex.pro/en_US/calculators/physics/gravity_calculator) — Gravitational force between two objects.
 - [Density Calculator](https://www.calculatorsoup.com/calculators/physics/density.php) — Density, mass & volume.
+- [WattsCalc](https://wattscalc.com) — Free wattage and electricity cost calculator for appliances and devices.
 
 ## Unit Conversion
 
@@ -91,6 +92,8 @@ _All-in-one calculator platforms covering multiple domains._
 - [Water Intake Calculator](https://calnex.pro/en_US/calculators/daily/water_intake_calculator) — Daily hydration needs based on weight & activity.
 - [Random Number Generator](https://www.random.org/) — True random number generation.
 - [QR Code Generator](https://calnex.pro/en_US/tools/qr_code_generator) — Custom QR code with colors & sizes.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) — Free calculator for lawn mowing cost estimates by area, rate, and extras.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) — Free embroidery job pricing from stitches, fabric, and labor.
 
 ## Privacy-First Tools
 
