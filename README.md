@@ -47,6 +47,8 @@ _All-in-one calculator platforms covering multiple domains._
 - [Coffee Compound Shocker](https://calnex.pro/en_US/calculators/finance/coffee_compound) — See the shocking opportunity cost of daily coffee spending.
 - [Discount & Markup Calculator](https://www.omnicalculator.com/finance/markup) — Calculate discounts and markups.
 
+- [SmartBizCalc](https://smartbizcalc.com) — 320+ free business financial calculators: payroll tax, self-employment tax, break-even analysis, S-corp savings, business insurance costs, contractor pricing, and more.
+
 ## Health & Fitness
 
 - [BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm) — Official NIH BMI calculator.
