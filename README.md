@@ -61,12 +61,13 @@ _All-in-one calculator platforms covering multiple domains._
 ## Math & Statistics
 
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator) — Advanced interactive graphing.
-- [Wolfram Alpha](https://www.wolframalpha.com/) — Computational knowledge engine.
-- [Normal Distribution Calculator](https://calnex.pro/en_US/calculators/math/normal_distribution_calculator) — Gaussian distribution with interactive charts.
-- [Z-Score Calculator](https://calnex.pro/en_US/calculators/math/z_score_calculator) — Standard score & percentile computation.
-- [Sample Size Calculator](https://calnex.pro/en_US/calculators/math/sample_size_calculator) — Statistical sample size for surveys & research.
+- [KopFollowers.se Engagement Rate Calculator (Swedish)](https://kopfollowers.se/tools/engagement-rate) — Free browser calculator for likes plus comments as a percentage of followers, reach, or views, with no account or profile lookup.
 - [Matrix Calculator](https://matrix.reshish.com/) — Matrix operations & determinant calculator.
+- [Normal Distribution Calculator](https://calnex.pro/en_US/calculators/math/normal_distribution_calculator) — Gaussian distribution with interactive charts.
+- [Sample Size Calculator](https://calnex.pro/en_US/calculators/math/sample_size_calculator) — Statistical sample size for surveys & research.
 - [Symbolab](https://www.symbolab.com/) — Step-by-step math equation solver.
+- [Wolfram Alpha](https://www.wolframalpha.com/) — Computational knowledge engine.
+- [Z-Score Calculator](https://calnex.pro/en_US/calculators/math/z_score_calculator) — Standard score & percentile computation.
 
 ## Science & Engineering
 
