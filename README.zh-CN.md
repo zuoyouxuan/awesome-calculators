@@ -42,6 +42,7 @@ _覆盖多个领域的全能计算器平台。_
 - [复利计算器](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) — 美国 SEC 官方复利工具。
 - [复利计算器（交互式）](https://calnex.pro/en_US/calculators/finance/compound_interest_calculator) — 可视化复利图表，支持日/月/年定投。
 - [贷款计算器](https://www.bankrate.com/loans/loan-calculator/) — Bankrate 贷款摊销计算。
+- [Tanzhang 摊账市集经营结余试算](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/) — 免费、无需注册的单场市集试算：净实收减售出商品成本、损耗赠品成本及活动费用。中英文页面、人民币显示；无汇率换算、税务计算或结果导出。另有独立可选中文版工作簿，19.90 元。
 - [WACC 计算器](https://calnex.pro/en_US/calculators/finance/wacc_calculator) — 企业加权平均资本成本。
 - [ROI 计算器](https://www.omnicalculator.com/finance/roi) — 投资回报率估算。
 - [咖啡复利震撼器](https://calnex.pro/en_US/calculators/finance/coffee_compound) — 每日咖啡开支的机会成本有多惊人？

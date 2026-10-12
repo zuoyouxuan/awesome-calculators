@@ -42,6 +42,7 @@ _All-in-one calculator platforms covering multiple domains._
 - [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) — Official SEC compound interest tool.
 - [Compound Interest Calculator (Interactive)](https://calnex.pro/en_US/calculators/finance/compound_interest_calculator) — Visual compound interest with charts, daily/monthly/yearly contributions.
 - [Loan Calculator](https://www.bankrate.com/loans/loan-calculator/) — Bankrate loan amortization.
+- [Tanzhang Market Stall Surplus Calculator](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en.html) — Free, no-signup single-event calculator for market-stall vendors: net receipts minus sold-item cost, loss/gift cost and event expenses. Chinese and English; CNY display, no currency conversion, tax calculation or saved-result export. A separate optional Chinese workbook costs CNY 19.90.
 - [WACC Calculator](https://calnex.pro/en_US/calculators/finance/wacc_calculator) — Weighted average cost of capital for business.
 - [ROI Calculator](https://www.omnicalculator.com/finance/roi) — Return on investment estimator.
 - [Coffee Compound Shocker](https://calnex.pro/en_US/calculators/finance/coffee_compound) — See the shocking opportunity cost of daily coffee spending.
