@@ -60,6 +60,7 @@ _All-in-one calculator platforms covering multiple domains._
 
 ## Math & Statistics
 
+- [Call Sampling Calculator](https://dagmor.app/story-call-sampling-calculator.html) — Estimate how often a random sample of recorded calls misses an assumed issue and how many calls to check for a chosen chance of finding one.
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator) — Advanced interactive graphing.
 - [Wolfram Alpha](https://www.wolframalpha.com/) — Computational knowledge engine.
 - [Normal Distribution Calculator](https://calnex.pro/en_US/calculators/math/normal_distribution_calculator) — Gaussian distribution with interactive charts.
