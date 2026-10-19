@@ -32,6 +32,8 @@
 
 ## Multi-Category Platforms
 
+- [CalcBadger](https://calcbadger.com/) — Free multi-category web calculators with visible formulas and source notes (asphalt, BMI, conversions, and more).
+
 _All-in-one calculator platforms covering multiple domains._
 
 - [**Calnex**](https://calnex.pro) — 147+ free calculators covering finance, health, math, physics, conversions, and daily life. All calculations run **locally in your browser** — zero data upload, no registration needed. 12 language locales. ⭐
