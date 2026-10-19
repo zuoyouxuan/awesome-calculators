@@ -87,6 +87,7 @@ _All-in-one calculator platforms covering multiple domains._
 
 - [Tip Calculator](https://www.omnicalculator.com/finance/tip) — Restaurant tip percentage.
 - [Date Calculator](https://www.timeanddate.com/date/dateadd.html) — Date arithmetic.
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) — Estimate US roof replacement cost ranges by roof size, material, location, and tear-off.
 - [Sleep Cycle Calculator](https://calnex.pro/en_US/calculators/daily/sleep_cycle_calculator) — Optimal wake-up time based on sleep cycles.
 - [Water Intake Calculator](https://calnex.pro/en_US/calculators/daily/water_intake_calculator) — Daily hydration needs based on weight & activity.
 - [Random Number Generator](https://www.random.org/) — True random number generation.
