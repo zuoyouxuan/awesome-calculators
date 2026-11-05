@@ -20,6 +20,7 @@
 
 - [Multi-Category Platforms](#multi-category-platforms)
 - [Finance & Investment](#finance--investment)
+- [Marketing & Advertising](#marketing--advertising)
 - [Health & Fitness](#health--fitness)
 - [Math & Statistics](#math--statistics)
 - [Science & Engineering](#science--engineering)
@@ -46,6 +47,10 @@ _All-in-one calculator platforms covering multiple domains._
 - [ROI Calculator](https://www.omnicalculator.com/finance/roi) — Return on investment estimator.
 - [Coffee Compound Shocker](https://calnex.pro/en_US/calculators/finance/coffee_compound) — See the shocking opportunity cost of daily coffee spending.
 - [Discount & Markup Calculator](https://www.omnicalculator.com/finance/markup) — Calculate discounts and markups.
+
+## Marketing & Advertising
+
+- [Telegram Sponsorship Quote Comparator](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/) — Compare Telegram channel placement quotes against median views from recent comparable posts and estimate CPM; free, browser-only, no signup.
 
 ## Health & Fitness
 
